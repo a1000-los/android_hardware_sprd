@@ -79,6 +79,7 @@ LOCAL_SHARED_LIBRARIES := \
 	libvbeffect \
 	libvbpga \
 	libnvexchange \
+	libdumpdata \
 	libhardware_legacy \
 
 LOCAL_REQUIRED_MODULES := \
@@ -91,6 +92,7 @@ LOCAL_REQUIRED_MODULES := \
 	libvbeffect \
 	libvbpga \
 	libnvexchange \
+	libdumpdata \
 	libhardware_legacy \
 
 LOCAL_MODULE_TAGS := optional
